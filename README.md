@@ -1,6 +1,5 @@
-## Hi there 👋
 # 💫 About Me:<br>
-- Hello! I am Lekhana
+- Hi there 👋 I am Lekhana
 - 🔭 Currently working on Full Stack development and deep learning projects. <br>
 - 👯 Open to collaborating on innovative AI, ML, and data visualization projects.<br>
 - 🤝 Actively seeking job opportunities in Software Development Engineering (SDE) and Data Science.<br>
