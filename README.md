@@ -1,9 +1,4 @@
 ## Hi there 👋
-
-<!--
-**lekhanachowdary/lekhanachowdary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 # 💫 About Me:<br>
 - Hello! I am Lekhana
 - 🔭 Currently working on Full Stack development and deep learning projects. <br>
